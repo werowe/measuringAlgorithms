@@ -1,1 +1,1 @@
-Permutation Importance is documented [here](https://github.com/werowe/measuringAlgorithms/blob/master/PermutationImportance.py).
+Permutation Importance is documented [here](https://www.bmc.com/blogs/scikit-learn-permutation-importance/).
